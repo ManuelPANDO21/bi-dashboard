@@ -1,5 +1,5 @@
-echo dash==2.17.1 > requirements.txt
-echo plotly==5.22.0 >> requirements.txt
-echo pandas==2.1.4 >> requirements.txt
-echo numpy==1.26.4 >> requirements.txt
-echo gunicorn==22.0.0 >> requirements.txt
+dash==2.17.1
+plotly==5.22.0
+pandas==2.1.4
+numpy==1.26.4
+gunicorn==22.0.0
